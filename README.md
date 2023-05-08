@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Grace Omoleye - [Github}(https:??github.com/graceomole)
+Grace Omoleye - [Github}(https://github.com/graceomole)
 Abidemi Osunsanya
 
 
